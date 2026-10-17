@@ -35,8 +35,9 @@
 
 <p align="left">
   <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank"><img src="https://img.shields.io/badge/Credly-Verified%20Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" /></a>
-  <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank"><img src="https://img.shields.io/badge/Google-Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" /></a>
-  <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank"><img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials 1" /></a>
+  <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank"><img src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" /></a>
+  <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank"><img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" /></a>
+  <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials 1" /></a>
 </p>
 - 🏆 **CS50's Introduction to Programming with Python** – *HarvardX*
 - 🏆 **Python Essentials 1** – *Cisco Networking Academy*
