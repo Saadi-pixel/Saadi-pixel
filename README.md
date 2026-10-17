@@ -10,15 +10,7 @@
 
 ## 🛠️ Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,git,github,gcp,vscode,figma)](https://skillicons.dev)
-
----
-
-## 💼 Experience
-
-- **AI Intern** – *Decode Labs*
-- **AICTE Intern** – *Oasis Infobyte*
-- **Workshop Leader** – *Lincoln Corner UAJK* (Technical Workshop Leadership)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,oop,git,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -40,7 +32,6 @@
 | Degree / Program | Institution | Status |
 | :--- | :--- | :--- |
 | **BS in Artificial Intelligence** | University of Azad Jammu and Kashmir | Present |
-| **FSc Pre-Medical** | Govt Model Science College Muzaffarabad | Completed |
 
 ---
 
