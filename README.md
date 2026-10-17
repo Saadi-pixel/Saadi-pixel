@@ -1,7 +1,7 @@
 <!-- HEADER BANNER WITH AUTO-FETCHING PROFILE PICTURE -->
 <p align="center">
   <a href="https://saadi-pixel.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=220&section=header&text=saadi--pixel&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%26%20Machine%20Learning%20Developer&descSize=18&descAlignY=62" width="100%" alt="saadi-pixel Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=220&section=header&text=saadi--pixel&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="saadi-pixel Banner" />
   </a>
 </p>
 
@@ -9,11 +9,16 @@
   <img src="https://github.com/saadi-pixel.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #0284c7;" alt="Muhammad Saad Profile Picture" />
 </p>
 
-<h2 align="center">⚡ Hi there, I'm Muhammad Saad 👋</h2>
+<h1 align="center">Hi there, I'm Muhammad Saad 👋</h1>
+
+<!-- ANIMATED TYPING SUBHEADER -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vcenter=true&width=600&height=45&lines=AI+%26+Machine+Learning+Developer;GenAI+%26+RAG+Pipeline+Specialist;Python+%26+C%2B%2B+Programmer;Building+Intelligent+Applications" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <b>AI & Machine Learning Enthusiast | Data Analyst | Python Developer</b><br>
-  <i>Specializing in Generative AI, Prompt Engineering & RAG Pipelines</i><br>
   📍 <b>Location:</b> Muzaffarabad, Azad Kashmir, Pakistan
 </p>
 ## 📬 Connect With Me
