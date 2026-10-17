@@ -38,6 +38,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadi-pixel&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadi-pixel&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadi-pixel&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadi-pixel&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadi-pixel&show_icons=true&theme=radial&count_private=true" alt="Muhammad Saad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadi-pixel&layout=compact&theme=radial&hide=html,css" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadi-pixel&theme=radial" alt="GitHub Streak Stats" width="96%" />
 </p>
