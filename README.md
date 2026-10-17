@@ -24,7 +24,6 @@
   <a href="mailto:khokharsaad961@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="http://www.linkedin.com/in/muhammad-saad-722943339" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/Muhammad Saad" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaadi-pixel&count_bg=%230284C7&title_bg=%230F172A&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 
