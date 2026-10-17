@@ -4,11 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=220&section=header&text=saadi--pixel&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="saadi-pixel Banner" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/saadi-pixel.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #0284c7;" alt="Muhammad Saad Profile Picture" />
-</p>
-
 <h1 align="center">Hi there, I'm Muhammad Saad 👋</h1>
 
 <!-- ANIMATED TYPING SUBHEADER -->
