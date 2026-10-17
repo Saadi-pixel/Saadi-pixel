@@ -3,8 +3,24 @@
 **AI & Machine Learning Enthusiast | Data Analyst | Python Developer**  
 *Specializing in GenAI, Prompt Engineering & RAG Pipelines*
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadi-pixel.github.io)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-saad-722943339)
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:khokharsaad961@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="http://www.linkedin.com/in/muhammad-saad-722943339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://huggingface.co/saadi-pixel" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge" />
+  </a>
+  <a href="https://Saadi-pixel.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+
 
 ---
 
