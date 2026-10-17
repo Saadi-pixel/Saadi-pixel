@@ -40,7 +40,7 @@
     <img src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" />
   </a>
   <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials 1" />
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials 1" />
   </a>
   
   <a href="https://www.credly.com/users/muhammad-saad.56bc31e6" target="_blank">
