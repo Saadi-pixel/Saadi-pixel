@@ -10,7 +10,7 @@
 
 ## 🛠️ Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,oop,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,git,github,vscode)](https://skillicons.dev)
 
 ---
 
