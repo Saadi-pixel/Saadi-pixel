@@ -16,7 +16,6 @@
 <p align="center">
   📍 <b>Location:</b> Muzaffarabad, Azad Kashmir, Pakistan
 </p>
-## 📬 Connect With Me
 
 ## 📬 Connect With Me
 
